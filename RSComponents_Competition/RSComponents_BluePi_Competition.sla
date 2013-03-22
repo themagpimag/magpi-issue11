@@ -183,12 +183,12 @@
             <ITEXT FONTSIZE="11.7" FCOLOR="White" CH=" and answer the seven questions displayed on the right. All correct entries will be put in to a prize draw, with the first ten drawn winning a Blue Raspberry Pi. Winners will be  notified by email. For full terms and conditions visit the competition page link below."/>
             <para LINESP="14.8"/>
             <para LINESP="14.8"/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="11.7" FCOLOR="White" CH="1. What date did the Raspberry Pi Foundation launch the Raspberry Pi?"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="11.7" FCOLOR="White" CH="1. On what date did the Raspberry Pi Foundation launch the Raspberry Pi?"/>
             <para LINESP="14.8"/>
             <ITEXT FONTSIZE="11.7" FCOLOR="White" CH="a) February 28th 2012   b)   February 29th 2012   c)   March 1st 2012"/>
             <para LINESP="14.8"/>
             <para LINESP="14.8"/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="11.7" FCOLOR="White" CH="2. How long did the raspberry pi take to develop?"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="11.7" FCOLOR="White" CH="2. How long did the Raspberry Pi take to develop?"/>
             <para LINESP="14.8"/>
             <ITEXT FONTSIZE="11.7" FCOLOR="White" CH="a) 1 year   b)   4 years   c)   6 years"/>
             <para LINESP="14.8"/>
@@ -198,12 +198,12 @@
             <ITEXT FONTSIZE="11.7" FCOLOR="White" CH="a) Price   b)   Size   c)   Design"/>
             <para LINESP="14.8"/>
             <para LINESP="14.8"/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="11.7" FCOLOR="White" CH="4. Which TV network helped champion the Pi story in the Early Days?"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="11.7" FCOLOR="White" CH="4. Which TV network helped champion the Pi story in the early days?"/>
             <para LINESP="14.8"/>
             <ITEXT FONTSIZE="11.7" FCOLOR="White" CH="a) ABC   b)   BBC   c)   ITV"/>
             <para LINESP="14.8"/>
             <para LINESP="14.8"/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="11.7" FCOLOR="White" CH="5. Roughly how many components does raspberry Pi have?"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="11.7" FCOLOR="White" CH="5. Roughly how many components does the Raspberry Pi have?"/>
             <para LINESP="14.8"/>
             <ITEXT FONTSIZE="11.7" FCOLOR="White" CH="a) 137   b)   167   c)   187"/>
             <para LINESP="14.8"/>
