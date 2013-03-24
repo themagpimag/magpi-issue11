@@ -1,0 +1,1 @@
+Cut down the article to one page.  Contact the author for a photo.  Test if this works with PYTHON or BASH etc..
