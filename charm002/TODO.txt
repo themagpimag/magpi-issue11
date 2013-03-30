@@ -1,0 +1,47 @@
+Will,
+
+As requested I've added the following snippets to the Charm article "An Introduction to Charm Data Types"  which by the way I'm pretty sure shouldn't be entitled "Adding a motorised base part 2" !? (also look out for the blue splodge at "keyword.By" which I think is due to a missing space and is being treated as a hyperlink)
+
+I estimate the extra word count should pretty much fill out the article to 2 pages.
+
+I've attached the text version of the article with the usual # ... # delimiters for computer text font, and outlined the additions and modifications below in case that makes life easier for you:
+
+---------------------------------------------------------------------------------
+
+[[[End of Constants section]]]
+
+It is also possible to declare lists of constants using the #list# keyword. In this case numbers are implicitly assigned according to position in the list starting from 1 and going up to the number of list elements e.g.
+
+#list RED, GREEN, BLUE;#
+
+assigns values 1, 2 and 3 to the constants #RED#, #GREEN# and #BLUE# respectively. This is particularly useful when defining an enumeration defining a finite set of distinct but associated values that can for instance be used as case statement labels.
+
+---------------------------------------------------------------------------------
+
+[[[ End of Variables section  - unhashed (unformatted) comparison operators following below should appear as  = and  # then :=: and :#: ]]]
+
+Note that when comparing pointers the usual #=# and ### comparison operators become #:=:# and #:#:# since using the first form will cause the pointers to be dereferenced before the comparison is made.
+
+---------------------------------------------------------------------------------
+
+[[[ Towards end of Strings section after "Hello" ]]]
+
+In fact one of the signatures of the Charm #~start# procedure which defines the entry point for a Charm program takes two parameters, the first of which is an integer specifying the number of command line arguments being passed in and the second of which is of type #ref array ref array char# which while at first sight looking somewhat daunting is simply a pointer to an array of strings (one per argument).
+
+---------------------------------------------------------------------------------
+
+[[[ End of Scope section - replacement text for e.g. ]]]
+
+e.g. #Out.vdu.str# refers to the #str# procedure of the #vdu# instance of the #Out# library module used to output strings to the screen.
+
+---------------------------------------------------------------------------------
+
+[[[ Replaces equivalent last paragraph of Scope section immediately before Exercise section ]]]
+
+Next Time
+---------
+Next time I intend to cover some of the coding side of Charm including examples of sequence, selection and iteration under the umbrella of writing expressions, assignments and flow of control statements.
+
+---------------------------------------------------------------------------------
+
+from an email
