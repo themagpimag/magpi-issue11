@@ -28,6 +28,7 @@
         <HYPHEN/>
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="TOC_Title_Style" FONT="Bitstream Charter Bold" LANGUAGE="English"/>
+        <STYLE NAME="Body text" ALIGN="3" FONT="FreeSans Regular" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="11" LEVEL="0" NAME="background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="0.5" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
         <LAYERS NUMMER="1" LEVEL="1" NAME="Header" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
@@ -45,8 +46,11 @@
         <LAYERS NUMMER="13" LEVEL="3" NAME="Effect : Header_Fade 002" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="0" useSpotColors="0" useColor="1" mirrorH="1" mirrorV="0" useICC="0" doGCR="1" doClip="1" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="3.74231782764791e-308" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="2" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="600" Resolution="600" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="1" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
-            <Fonts Name="Bitstream Vera Sans Bold"/>
+            <Fonts Name="Bitstream Charter Bold"/>
+            <Fonts Name="FreeSans Regular"/>
+            <Subset Name="DejaVu Sans Bold"/>
             <Subset Name="DejaVu Sans Book"/>
+            <Subset Name="FreeSans Bold"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
@@ -215,17 +219,17 @@
             <ITEXT FONT="DejaVu Sans Book" FONTSIZE="11" CH="In this month's article we are going to implement Heap Sort."/>
             <para ALIGN="3" LINESP="13" OpticalMargins="14"/>
             <para ALIGN="3" LINESP="13" OpticalMargins="14"/>
-            <ITEXT FONT="DejaVu Sans Book" FONTSIZE="11" CH="The big idea here is the &quot;Heap&quot;. "/>
+            <ITEXT FONT="DejaVu Sans Book" FONTSIZE="12" CH="The big idea here is the &quot;Heap&quot;. "/>
             <para/>
-            <ITEXT FONT="DejaVu Sans Book" FONTSIZE="11" CH="If you have a set of numbers, you can arrange them in a kind of tree structure."/>
+            <ITEXT FONT="DejaVu Sans Book" FONTSIZE="12" CH="If you have a set of numbers, you can arrange them in a kind of tree structure."/>
             <para/>
             <para/>
             <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="11" CH="Rules of the Heap"/>
             <para ALIGN="1"/>
             <para/>
-            <ITEXT FONT="DejaVu Sans Book" FONTSIZE="11" CH="&gt; each node can have up to two child nodes."/>
+            <ITEXT FONT="DejaVu Sans Book" FONTSIZE="11" CH="• each node can have up to two child nodes."/>
             <para/>
-            <ITEXT FONT="DejaVu Sans Book" FONTSIZE="11" CH="&gt; each child must be less than or equal to its root."/>
+            <ITEXT FONT="DejaVu Sans Book" FONTSIZE="11" CH="• each child must be less than or equal to its root."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -350,10 +354,10 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="293" YPOS="1354" WIDTH="174" HEIGHT="31" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 174 0 174 0 174 0 174 0 174 31 174 31 174 31 174 31 0 31 0 31 0 31 0 31 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 174 0 174 0 174 0 174 0 174 31 174 31 174 31 174 31 0 31 0 31 0 31 0 31 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="292.605263157895" YPOS="1354" WIDTH="174.394736842105" HEIGHT="31" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="2.83464566929134" TEXTRA="2.83464566929134" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 174.395 0 174.395 0 174.395 0 174.395 0 174.395 31 174.395 31 174.395 31 174.395 31 0 31 0 31 0 31 0 31 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 174.395 0 174.395 0 174.395 0 174.395 0 174.395 31 174.395 31 174.395 31 174.395 31 0 31 0 31 0 31 0 31 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="DejaVu Sans Book" FONTSIZE="10" CH="Get the scripts online:"/>
             <para/>
-            <ITEXT FONT="DejaVu Sans Book" FONTSIZE="10" FEATURES="inherit underline" CH="http://tinyurl.com/magpi-heap"/>
+            <ITEXT FONT="DejaVu Sans Book" FONTSIZE="10" FEATURES="inherit underline" FCOLOR="Blue" FSHADE="100" CH="http://tinyurl.com/magpi-heap"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
