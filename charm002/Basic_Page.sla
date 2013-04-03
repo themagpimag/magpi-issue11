@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SCRIBUSUTF8NEW Version="1.4.2">
-    <DOCUMENT ANZPAGES="4" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="7" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.055" dispY="0.055" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+<SCRIBUSUTF8NEW Version="1.4.1.svn">
+    <DOCUMENT ANZPAGES="4" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.055" dispY="0.055" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -30,11 +30,15 @@
         <HYPHEN/>
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="TOC_Title_Style" FONT="FreeSans Bold" LANGUAGE="English"/>
+        <STYLE NAME="code" LINESP="11" FONT="Monaco Regular" FONTSIZE="11" FCOLOR="Black" LANGUAGE="English"/>
+        <STYLE NAME="body text" ALIGN="3" LINESP="14.365" FONTSIZE="13.1" LANGUAGE="English"/>
+        <STYLE NAME="heading" LINESP="14" FONT="FreeSans Bold" FONTSIZE="14" FEATURES="underline" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="English"/>
+        <STYLE NAME="challenge" LINESP="14" FONT="FreeSans Bold" FONTSIZE="14" FEATURES="underline" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Sub-title" FONT="FreeSans Bold" FONTSIZE="14" FEATURES="underline" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
-        <CHARSTYLE CNAME="Code" CPARENT="Code" FONT="Monaco Regular" FONTSIZE="10" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Code" FONT="Monaco Regular" FONTSIZE="11" LANGUAGE="English"/>
         <LAYERS NUMMER="1" LEVEL="0" NAME="Header" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
-        <LAYERS NUMMER="9" LEVEL="3" NAME="Effect:Header_bottom_bar" SICHTBAR="0" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
+        <LAYERS NUMMER="9" LEVEL="3" NAME="Effect:Header_bottom_bar" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="10" LEVEL="1" NAME="Effect : Header_Fade" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
         <LAYERS NUMMER="0" LEVEL="4" NAME="Header_and_footer" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <LAYERS NUMMER="8" LEVEL="5" NAME="Page_Number_Right" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
@@ -43,12 +47,20 @@
         <LAYERS NUMMER="3" LEVEL="9" NAME="Author_Information" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
         <LAYERS NUMMER="4" LEVEL="10" NAME="Header_Title" SICHTBAR="0" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
         <LAYERS NUMMER="5" LEVEL="11" NAME="Non_Header_Title" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
-        <LAYERS NUMMER="6" LEVEL="12" NAME="Article_Text" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
+        <LAYERS NUMMER="6" LEVEL="13" NAME="Article_Text" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
         <LAYERS NUMMER="11" LEVEL="2" NAME="Effect : Header_Fade 002" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="0.5" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
         <LAYERS NUMMER="12" LEVEL="8" NAME="Author_info_shadow" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
+        <LAYERS NUMMER="13" LEVEL="12" NAME="Images" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#550000"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="0" useSpotColors="0" useColor="1" mirrorH="1" mirrorV="0" useICC="0" doGCR="1" doClip="1" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="3.74231782764791e-308" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
-            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="600" Resolution="600" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="1" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Fonts Name="Monaco Regular"/>
+            <Subset Name="FreeSans Bold"/>
+            <Subset Name="FreeSans Regular"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
             <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
@@ -103,10 +115,6 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="100.003464566929" YPOS="20.0012598425197" WIDTH="595.275590551181" HEIGHT="28.3464566929134" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 595.276 0 595.276 0 595.276 0 595.276 0 595.276 28.3465 595.276 28.3465 595.276 28.3465 595.276 28.3465 0 28.3465 0 28.3465 0 28.3465 0 28.3465 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 595.276 0 595.276 0 595.276 0 595.276 0 595.276 28.3465 595.276 28.3465 595.276 28.3465 595.276 28.3465 0 28.3465 0 28.3465 0 28.3465 0 28.3465 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="100.003464566929" YPOS="833.544566932047" WIDTH="595.2755906" HEIGHT="28.34645669" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="Deep Orange" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 595.276 0 595.276 0 595.276 0 595.276 0 595.276 28.3465 595.276 28.3465 595.276 28.3465 595.276 28.3465 0 28.3465 0 28.3465 0 28.3465 0 28.3465 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 595.276 0 595.276 0 595.276 0 595.276 0 595.276 28.3465 595.276 28.3465 595.276 28.3465 595.276 28.3465 0 28.3465 0 28.3465 0 28.3465 0 28.3465 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -198,7 +206,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="229.338582677165" WIDTH="381.977086614173" HEIGHT="77.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="25" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 381.977 0 381.977 0 381.977 0 381.977 0 381.977 77.25 381.977 77.25 381.977 77.25 381.977 77.25 0 77.25 0 77.25 0 77.25 0 77.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 381.977 0 381.977 0 381.977 0 381.977 0 381.977 77.25 381.977 77.25 381.977 77.25 381.977 77.25 0 77.25 0 77.25 0 77.25 0 77.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="5" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="23" CH="Adding a motorised base part 2"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="21" CH="An introduction to Charm Data Types"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -260,388 +268,474 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.34708661126" YPOS="348.742125965354" WIDTH="538.5883465" HEIGHT="463.3129921" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 463.313 538.588 463.313 538.588 463.313 538.588 463.313 0 463.313 0 463.313 0 463.313 0 463.313 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 463.313 538.588 463.313 538.588 463.313 538.588 463.313 0 463.313 0 463.313 0 463.313 0 463.313 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="43" BACKITEM="-1">
-            <ITEXT CPARENT="Sub-title" CH="An Introduction to Charm Data Types"/>
-            <para/>
-            <para/>
-            <ITEXT CH="Computers can accurately and quickly manage, manipulate and transform information in accordance with sets of coded instructions packaged into operating systems and programs. In this article of the Charm series I am going to concentrate on how Charm defines and handles different types of data used to represent that information."/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Sub-title" CH="Basic Data Types"/>
-            <para/>
-            <para/>
-            <ITEXT CH="Currently Charm defines four intrinsic types of data as shown in the following table:"/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="boolean"/>
-            <ITEXT CH=" values represent flags that are either "/>
-            <ITEXT CPARENT="Code" CH="true"/>
-            <ITEXT CH=" or "/>
-            <ITEXT CPARENT="Code" CH="false"/>
-            <ITEXT CH=", and strictly speaking only require one bit of data. It is possible to combine up to 8 boolean flags in a "/>
-            <ITEXT CPARENT="Code" CH="char"/>
-            <ITEXT CH=" or 32 flags in an "/>
-            <ITEXT CPARENT="Code" CH="int "/>
-            <ITEXT CH="using the Charm bit operators. For convenience and speed however, the compiler does not attempt to pack "/>
-            <ITEXT CPARENT="Code" CH="boolean"/>
-            <ITEXT CH=" definitions together but stores each in its own byte location which is the smallest unit of memory the ARM CPU can directly address."/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="char "/>
-            <ITEXT CH="values represent single characters using the ubiquitous ASCII code. Some characters are non-printing and for historical reasons these are known as control characters, the most common being space (32), tab (9), linefeed (10) and carriage return (13)."/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="int "/>
-            <ITEXT CH="values represent signed 32 bit numbers in the range - 2147483648 to 2147483647 with negative numbers having the top bit set."/>
-            <para/>
-            <para/>
-            <ITEXT CH="When handling "/>
-            <ITEXT CPARENT="Code" CH="real"/>
-            <ITEXT CH=" numbers Charm will use IEEE double precision floating point if VFP support is enabled, or extended precision if using the standard RISCOS floating point emulator. Note that at the cost of a few trailing digits, floating point operations complete an order of magnitude faster with VFP support as they are performed in hardware rather than software."/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Sub-title" CH="Constants"/>
-            <para/>
-            <para/>
-            <ITEXT CH="Charm allows constant values of basic types to be named using the "/>
-            <ITEXT CPARENT="Code" CH="const"/>
-            <ITEXT CH=" keyword. By convention the source code in the Charm distribution uses upper case with an underscore delimeter between words for constant names. The type of the constant is inferred from the value it is assigned (using BNF notation) as follows:"/>
-            <para/>
-            <para/>
-            <ITEXT CH="• "/>
-            <ITEXT CPARENT="Code" CH="[true | false] "/>
-            <ITEXT CH="- "/>
-            <ITEXT CPARENT="Code" CH="boolean"/>
-            <para/>
-            <ITEXT CH="• "/>
-            <ITEXT CPARENT="Code" CH="'?'"/>
-            <ITEXT CH=" - "/>
-            <ITEXT CPARENT="Code" CH="char"/>
-            <ITEXT CH=" e.g. "/>
-            <ITEXT CPARENT="Code" CH="'Q'"/>
-            <para/>
-            <ITEXT CH="• "/>
-            <ITEXT CPARENT="Code" CH="[+ | -] [0 - 9]+"/>
-            <ITEXT CH=" - "/>
-            <ITEXT CPARENT="Code" CH="int"/>
-            <ITEXT CH=" e.g. -123"/>
-            <para/>
-            <ITEXT CH="• "/>
-            <ITEXT CPARENT="Code" CH="[+ | -] [0 - 9]+ . [0 - 9]+ [e [+ | -] [0 - 9]+]"/>
-            <ITEXT CH=" - "/>
-            <ITEXT CPARENT="Code" CH="real"/>
-            <ITEXT CH=" e.g 2.345e-6"/>
-            <para/>
-            <para/>
-            <ITEXT CH="The "/>
-            <ITEXT CPARENT="Code" CH="hex"/>
-            <ITEXT CH=" and "/>
-            <ITEXT CPARENT="Code" CH="bin"/>
-            <ITEXT CH=" prefixes introduce constants that are coded in hexadecimal ("/>
-            <ITEXT CPARENT="Code" CH="[0 - 9, A - F]+"/>
-            <ITEXT CH=") or binary ("/>
-            <ITEXT CPARENT="Code" CH="[0 , 1]+"/>
-            <ITEXT CH=") number bases e.g. "/>
-            <ITEXT CPARENT="Code" CH="hex 20"/>
-            <ITEXT CH=" or "/>
-            <ITEXT CPARENT="Code" CH="bin 100000"/>
-            <ITEXT CH=" for the space character."/>
-            <para/>
-            <para/>
-            <ITEXT CH="Non printing characters which are not part of the Charm language per se can be included as character data by escaping them using the "/>
-            <ITEXT CPARENT="Code" CH="'\'"/>
-            <ITEXT CH=" character e.g."/>
-            <para/>
-            <para/>
-            <ITEXT CH="• "/>
-            <ITEXT CPARENT="Code" CH="'\t'"/>
-            <ITEXT CH=" - tab "/>
-            <para/>
-            <ITEXT CH="• "/>
-            <ITEXT CPARENT="Code" CH="'\n'"/>
-            <ITEXT CH=" - carriage return "/>
-            <para/>
-            <ITEXT CH="• "/>
-            <ITEXT CPARENT="Code" CH="'\\'"/>
-            <ITEXT CH=" - backslash "/>
-            <para/>
-            <para/>
-            <ITEXT CH="Note that constants may contain expressions and these may reference other constants as long as the result of the expression can be resolved at compile time e.g."/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="const  ROWS = 4, COLUMNS = 6,  CELLS = ROWS * COLUMNS;"/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Sub-title" CH="Variables"/>
-            <para/>
-            <para/>
-            <ITEXT CH="A Charm variable must be declared before it can be used. In the declaration the variable is given both a name (conventionally lower case with an underscore delimiter between words and starting with a "/>
-            <ITEXT CPARENT="Code" CH="z"/>
-            <ITEXT CH=" for a pointer) and a type. Variables can be declared to be of either a basic or more complex type, with complex data types being derived from basic types in a number of ways:"/>
-            <para/>
-            <para/>
-            <ITEXT CH="• by homogeneous aggregation using the "/>
-            <ITEXT CPARENT="Code" CH="array"/>
-            <ITEXT CH=" keyword."/>
-            <para/>
-            <ITEXT CH="• by hetrogenous aggregation using the "/>
-            <ITEXT CPARENT="Code" CH="record"/>
-            <ITEXT CH=" keyword or using "/>
-            <ITEXT CPARENT="Code" CH="module"/>
-            <ITEXT CH=" level "/>
-            <ITEXT CPARENT="Code" CH="dynamic "/>
-            <ITEXT CH="data declarations."/>
-            <para/>
-            <ITEXT CH="• by using the "/>
-            <ITEXT CPARENT="Code" CH="ref"/>
-            <ITEXT CH=" keyword prefix to create a reference (or pointer) to a variable of a given type."/>
-            <para/>
-            <para/>
-            <ITEXT CH="Arrays contain data collections accessed using an index that runs from 0 to one less than the size of the array using square bracket notation e.g. "/>
-            <ITEXT CPARENT="Code" CH="variable [ index ]"/>
-            <ITEXT CH=". The index must resolve to type integer."/>
-            <para/>
-            <para/>
-            <ITEXT CH="Records contain a collection of typed fields each of which is given a different name within the record name space so that it can be accessed in the form "/>
-            <ITEXT CPARENT="Code" CH="&lt;record name&gt;.&lt;field name&gt;"/>
-            <ITEXT CH=" where by convention record name is in camel case. Dynamic module data can be access in a similar fashion as "/>
-            <ITEXT CPARENT="Code" CH="&lt;ref module name&gt;.&lt;variable name&gt;"/>
-            <ITEXT CH=" where the module name reference may be "/>
-            <ITEXT CPARENT="Code" CH="this"/>
-            <ITEXT CH=" if inside a "/>
-            <ITEXT CPARENT="Code" CH="dynamic"/>
-            <ITEXT CH=" procedure."/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="ref "/>
-            <ITEXT CH="type pointer variables are automatically dereferenced by Charm when the variable to which they point is accessed. Variables of complex data type are always passed by reference to procedures though they can be declared directly as static or stack based variables. While the "/>
-            <ITEXT CPARENT="Code" CH="proc"/>
-            <ITEXT CH=" keyword introduces procedural code, it is possible to declare variables of type "/>
-            <ITEXT CPARENT="Code" CH="ref proc"/>
-            <ITEXT CH=" that point to procedures and to execute those procedures via their pointers if the correct signature is adhered to. Note that since procedures can optionally return a value of a specified type using the "/>
-            <ITEXT CPARENT="Code" CH="return"/>
-            <ITEXT CH=" keyword in which case calls to them can be substituted in expressions for a variable of that type."/>
-            <para/>
-            <para/>
-            <ITEXT CH="Variables of type "/>
-            <ITEXT CPARENT="Code" CH="ref"/>
-            <ITEXT CH=" can be assigned the special value "/>
-            <ITEXT CPARENT="Code" CH="nil "/>
-            <ITEXT CH="which means that they are not currently pointing anywhere. When set to this value an attempt to use them to access data will result in a runtime exception, however they can still safely be compared with the "/>
-            <ITEXT CPARENT="Code" CH="nil"/>
-            <ITEXT CH=" value to see whether they contain a valid reference."/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Sub-title" CH="Strings"/>
-            <para/>
-            <para/>
-            <ITEXT CH="Now let's take a closer look at a particularly prevelant type within Charm, namely "/>
-            <ITEXT CPARENT="Code" CH="ref array char"/>
-            <ITEXT CH=" to point to a string:"/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="array [] char hello = ('H', 'e', 'l', 'l', 'o', 0);"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="ref array char hello_string = hello;"/>
-            <para/>
-            <para/>
-            <ITEXT CH="where the relevant portion of the Charm compiler type tree is:"/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <ITEXT CH="We can output this to the screen on a line of its own using the standard "/>
-            <ITEXT CPARENT="Code" CH="vdu"/>
-            <ITEXT CH=" stream of the "/>
-            <ITEXT CPARENT="Code" CH="Out"/>
-            <ITEXT CH=" library module as follows:"/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="Out.vdu.str (hello_string).nl ();"/>
-            <para/>
-            <para/>
-            <ITEXT CH="A few points to note are:"/>
-            <para/>
-            <para/>
-            <ITEXT CH="• All strings are terminated by a zero character."/>
-            <para/>
-            <ITEXT CH="• The length of the string array is implicitly calculated by the compiler, however if it were to be explicitly entered it would be "/>
-            <ITEXT CPARENT="Code" CH="[6]"/>
-            <ITEXT CH=" to accommodate the terminating zero."/>
-            <para/>
-            <ITEXT CH="• Characters can be extracted from the string using an array index starting from 0 and running to one less than the string length, for instance "/>
-            <ITEXT CPARENT="Code" CH="hello_string[1]"/>
-            <ITEXT CH=" contains "/>
-            <ITEXT CPARENT="Code" CH="'e'"/>
-            <ITEXT CH="."/>
-            <para/>
-            <para/>
-            <ITEXT CH="Since strings are used so much, the compiler associates the type of a string literal such as "/>
-            <ITEXT CPARENT="Code" CH="&quot;Hello&quot;"/>
-            <ITEXT CH=" with type "/>
-            <ITEXT CPARENT="Code" CH="ref array char"/>
-            <ITEXT CH=" and automatically adds the trailing zero, so more concisely we can write:"/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="ref array char hello_string = &quot;Hello&quot;;"/>
-            <para/>
-            <para/>
-            <ITEXT CH="The story on strings does not end there, as the Charm libraries contain a "/>
-            <ITEXT CPARENT="Code" CH="String"/>
-            <ITEXT CH=" module that can hold a dynamic instance of a modifiable string. This is held in the heap, can grow as required, and is automatically released by the "/>
-            <ITEXT CPARENT="Code" CH="String"/>
-            <ITEXT CH=" destructor when the "/>
-            <ITEXT CPARENT="Code" CH="String"/>
-            <ITEXT CH=" object goes out of 'scope' (see below)."/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Sub-title" CH="Type Conversions"/>
-            <para/>
-            <para/>
-            <ITEXT CH="In general the compiler will not allow variables of different types to be combined in assignments or expressions since this frequently this makes no sense e.g. assigning a "/>
-            <ITEXT CPARENT="Code" CH="real"/>
-            <ITEXT CH=" to a "/>
-            <ITEXT CPARENT="Code" CH="boolean"/>
-            <ITEXT CH=". The three arithmetic types "/>
-            <ITEXT CPARENT="Code" CH="char"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.34708661126" YPOS="348.742125965354" WIDTH="538.5883465" HEIGHT="463.3129921" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 463.313 538.588 463.313 538.588 463.313 538.588 463.313 0 463.313 0 463.313 0 463.313 0 463.313 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 463.313 538.588 463.313 538.588 463.313 538.588 463.313 0 463.313 0 463.313 0 463.313 0 463.313 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="42" BACKITEM="-1">
+            <ITEXT CPARENT="Sub-title" FEATURES="inherit" CH="An Introduction to Charm Data Types"/>
+            <para PARENT="heading"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Computers can accurately and quickly manage, manipulate and transform information in accordance with sets of coded instructions packaged into operating systems and programs. In this article of the Charm series I am going to concentrate on how Charm defines and handles different types of data used to represent that information."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Sub-title" FEATURES="inherit" CH="Basic Data Types"/>
+            <para PARENT="heading"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Currently Charm defines four intrinsic types of data as shown in the following table:"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="boolean"/>
+            <ITEXT FEATURES="inherit" CH=" values represent flags that are either "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="true"/>
+            <ITEXT FEATURES="inherit" CH=" or "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="false"/>
+            <ITEXT FEATURES="inherit" CH=", and strictly speaking only require one bit of data. It is possible to combine up to 8 boolean flags in a "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="char"/>
+            <ITEXT FEATURES="inherit" CH=" or 32 flags in an "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="int "/>
+            <ITEXT FEATURES="inherit" CH="using the Charm bit operators. For convenience and speed however, the compiler does not attempt to pack "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="boolean"/>
+            <ITEXT FEATURES="inherit" CH=" definitions together but stores each in its own byte location which is the smallest unit of memory the ARM CPU can directly address."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="char "/>
+            <ITEXT FEATURES="inherit" CH="values represent single characters using the ubiquitous ASCII code. Some characters are non-printing and for historical reasons these are known as control characters, the most common being space (32), tab (9), linefeed (10) and carriage return (13)."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="int "/>
+            <ITEXT FEATURES="inherit" CH="values represent signed 32 bit numbers in the range - 2147483648 to 2147483647 with negative numbers having the top bit set."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="When handling "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="real"/>
+            <ITEXT FEATURES="inherit" CH=" numbers Charm will use IEEE double precision floating point if VFP support is enabled, or extended precision if using the standard RISCOS floating point emulator. Note that at the cost of a few trailing digits, floating point operations complete an order of magnitude faster with VFP support as they are performed in hardware rather than software."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Sub-title" FEATURES="inherit" CH="Constants"/>
+            <para PARENT="heading"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Charm allows constant values of basic types to be named using the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="const"/>
+            <ITEXT FEATURES="inherit" CH=" keyword. By convention the source code in the Charm distribution uses upper case with an underscore delimeter between words for constant names. The type of the constant is inferred from the value it is assigned (using BNF notation) as follows:"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="[true | false] "/>
+            <ITEXT FEATURES="inherit" CH="- "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="boolean"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="'?'"/>
+            <ITEXT FEATURES="inherit" CH=" - "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="char"/>
+            <ITEXT FEATURES="inherit" CH=" e.g. "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="'Q'"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="[+ | -] [0 - 9]+"/>
+            <ITEXT FEATURES="inherit" CH=" - "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="int"/>
+            <ITEXT FEATURES="inherit" CH=" e.g. -123"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="[+ | -] [0 - 9]+ . [0 - 9]+ [e [+ | -] [0 - 9]+]"/>
+            <ITEXT FEATURES="inherit" CH=" - "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="real"/>
+            <ITEXT FEATURES="inherit" CH=" e.g 2.345e-6"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="The "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="hex"/>
+            <ITEXT FEATURES="inherit" CH=" and "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="bin"/>
+            <ITEXT FEATURES="inherit" CH=" prefixes introduce constants that are coded in hexadecimal ("/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="[0 - 9, A - F]+"/>
+            <ITEXT FEATURES="inherit" CH=") or binary ("/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="[0 , 1]+"/>
+            <ITEXT FEATURES="inherit" CH=") number bases e.g. "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="hex 20"/>
+            <ITEXT FEATURES="inherit" CH=" or "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="bin 100000"/>
+            <ITEXT FEATURES="inherit" CH=" for the space character."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Non printing characters which are not part of the Charm language per se can be included as character data by escaping them using the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="'\'"/>
+            <ITEXT FEATURES="inherit" CH=" character e.g."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="'\t'"/>
+            <ITEXT FEATURES="inherit" CH=" - tab "/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="'\n'"/>
+            <ITEXT FEATURES="inherit" CH=" - carriage return "/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="'\\'"/>
+            <ITEXT FEATURES="inherit" CH=" - backslash "/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Note that constants may contain expressions and these may reference other constants as long as the result of the expression can be resolved at compile time e.g."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Code" CH="  const  ROWS = 4, COLUMNS = 6,  "/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" CH="  CELLS = ROWS * COLUMNS;"/>
+            <para PARENT="code"/>
+            <para PARENT="body text"/>
+            <ITEXT CH="It is also possible to declare lists of constants using the "/>
+            <ITEXT FONT="Monaco Regular" CH="list"/>
+            <ITEXT CH=" keyword. In this case numbers are implicitly assigned according to position in the list starting from 1 and going up to the number of list elements e.g."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CH="  list RED, GREEN, BLUE;"/>
+            <para PARENT="code"/>
+            <para PARENT="body text"/>
+            <ITEXT CH="assigns values 1, 2 and 3 to the constants "/>
+            <ITEXT FONT="Monaco Regular" CH="RED"/>
             <ITEXT CH=", "/>
-            <ITEXT CPARENT="Code" CH="int"/>
+            <ITEXT FONT="Monaco Regular" CH="GREEN"/>
             <ITEXT CH=" and "/>
-            <ITEXT CPARENT="Code" CH="real"/>
-            <ITEXT CH=" can however be mixed, and the compiler will generate a result of the widest width (greatest number of bits) of the operands. You may also mix these types on the left and right of assignment statements, however watch out for loss of precision if the left hand side is narrower than the result being assigned to it."/>
-            <para/>
-            <para/>
-            <ITEXT CH="Charm does permit a couple of powerful casting operations through the "/>
-            <ITEXT CPARENT="Code" CH="address (variable)"/>
-            <ITEXT CH=" construct which can convert a variable of any type to an integer and the "/>
-            <ITEXT CPARENT="Code" CH="[int]"/>
-            <ITEXT CH=" construct which can convert an integer to any type. With great power comes great responsibility however, so these are used but rarely and then with care. You can see an example in the Charm "/>
-            <ITEXT CPARENT="Code" CH="debug"/>
-            <ITEXT CH=" library module which casts the heap address to an array of bytes so that their contents can be dumped to a file."/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Sub-title" CH="Scope"/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <ITEXT CH="The scope of a variable relates to from where it is accessible and is associated with its lifecycle. A variable can reside in one of the following places:"/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <ITEXT CH="Variables declared statically exist for the lifetime of the program and are initialised at compile time, by default to zero or "/>
-            <ITEXT CPARENT="Code" CH="nil"/>
-            <ITEXT CH=" for references. Variables declared on the heap are created by the "/>
-            <ITEXT CPARENT="Code" CH="new"/>
-            <ITEXT CH=" operator and released using the "/>
-            <ITEXT CPARENT="Code" CH="delete"/>
-            <ITEXT CH=" operator when no longer needed. Variables on the stack exist until their containing scope is released. Typically this is when a procedure exits, or execution of a block of code between "/>
-            <ITEXT CPARENT="Code" CH="{"/>
+            <ITEXT FONT="Monaco Regular" CH="BLUE"/>
+            <ITEXT CH=" respectively. This is particularly useful when defining an enumeration defining a finite set of distinct but associated values that can for instance be used as case statement labels."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <para PARENT="heading"/>
+            <para PARENT="heading"/>
+            <ITEXT CPARENT="Sub-title" FEATURES="inherit" CH="Variables"/>
+            <para PARENT="heading"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="A Charm variable must be declared before it can be used. In the declaration the variable is given both a name (conventionally lower case with an underscore delimiter between words and starting with a "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="z"/>
+            <ITEXT FEATURES="inherit" CH=" for a pointer) and a type. Variables can be declared to be of either a basic or more complex type, with complex data types being derived from basic types in a number of ways:"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• by homogeneous aggregation using the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="array"/>
+            <ITEXT FEATURES="inherit" CH=" keyword."/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• by hetrogenous aggregation using the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="record"/>
+            <ITEXT FEATURES="inherit" CH=" keyword or using "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="module"/>
+            <ITEXT FEATURES="inherit" CH=" level "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="dynamic "/>
+            <ITEXT FEATURES="inherit" CH="data declarations."/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• by using the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="ref"/>
+            <ITEXT FEATURES="inherit" CH=" keyword prefix to create a reference (or pointer) to a variable of a given type."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Arrays contain data collections accessed using an index that runs from 0 to one less than the size of the array using square bracket notation e.g. "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="variable [ index ]"/>
+            <ITEXT FEATURES="inherit" CH=". The index must resolve to type integer."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Records contain a collection of typed fields each of which is given a different name within the record name space so that it can be accessed in the form "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="&lt;record name&gt;.&lt;field name&gt;"/>
+            <ITEXT FEATURES="inherit" CH=" where by convention record name is in camel case. Dynamic module data can be access in a similar fashion as "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="&lt;ref module name&gt;.&lt;variable name&gt;"/>
+            <ITEXT FEATURES="inherit" CH=" where the module name reference may be "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="this"/>
+            <ITEXT FEATURES="inherit" CH=" if inside a "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="dynamic"/>
+            <ITEXT FEATURES="inherit" CH=" procedure."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="ref "/>
+            <ITEXT FEATURES="inherit" CH="type pointer variables are automatically dereferenced by Charm when the variable to which they point is accessed. Variables of complex data type are always passed by reference to procedures though they can be declared directly as static or stack based variables. While the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="proc"/>
+            <ITEXT FEATURES="inherit" CH=" keyword introduces procedural code, it is possible to declare variables of type "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="ref proc"/>
+            <ITEXT FEATURES="inherit" CH=" that point to procedures and to execute those procedures via their pointers if the correct signature is adhered to. Note that since procedures can optionally return a value of a specified type using the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="return"/>
+            <ITEXT FEATURES="inherit" CH=" keyword in which case calls to them can be substituted in expressions for a variable of that type."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Variables of type "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="ref"/>
+            <ITEXT FEATURES="inherit" CH=" can be assigned the special value "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="nil "/>
+            <ITEXT FEATURES="inherit" CH="which means that they are not currently pointing anywhere. When set to this value an attempt to use them to access data will result in a runtime exception, however they can still safely be compared with the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="nil"/>
+            <ITEXT FEATURES="inherit" CH=" value to see whether they contain a valid reference."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CH="Note that when comparing pointers the usual "/>
+            <ITEXT FONT="Monaco Regular" CH="="/>
             <ITEXT CH=" and "/>
-            <ITEXT CPARENT="Code" CH="}"/>
-            <ITEXT CH=" delimiters finishes."/>
-            <para/>
-            <para/>
-            <ITEXT CH="The specially named "/>
-            <ITEXT CPARENT="Code" CH="~startup"/>
+            <ITEXT FONT="Monaco Regular" CH="#"/>
+            <ITEXT CH=" comparison operators become "/>
+            <ITEXT FONT="Monaco Regular" CH=":=:"/>
             <ITEXT CH=" and "/>
-            <ITEXT CPARENT="Code" CH="~shutdown"/>
-            <ITEXT CH=" procedures can assist with setting up static variables, and the "/>
-            <ITEXT CPARENT="Code" CH="~new"/>
-            <ITEXT CH=" and "/>
-            <ITEXT CPARENT="Code" CH="~delete"/>
-            <ITEXT CH=" procedures can help with setting up heap and stack based variables when more than a single compile or run time assignment is required."/>
-            <para/>
-            <para/>
-            <ITEXT CH="Importantly for information hiding, by default constants, variables and procedures are only accessible from within the module in which they are declared. By using the "/>
-            <ITEXT CPARENT="Code" CH="export"/>
-            <ITEXT CH=" keyword however, it is possible to make these definitions publicly available to other modules. Referencing modules are required to explicitly state their dependencies using the "/>
-            <ITEXT CPARENT="Code" CH="import"/>
-            <ITEXT CH=" keyword to state each module whose public definitions they wish to use. Such references must then be qualified with the name of the imported module e.g. "/>
-            <ITEXT CPARENT="Code" CH="Out.vdu.str"/>
+            <ITEXT FONT="Monaco Regular" CH=":#:"/>
+            <ITEXT CH=" since using the first form will cause the pointers to be dereferenced before the comparison is made."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Sub-title" FEATURES="inherit" CH="Strings"/>
+            <para PARENT="heading"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Now let's take a closer look at a particularly prevelant type within Charm, namely "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="ref array char"/>
+            <ITEXT FEATURES="inherit" CH=" to point to a string:"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Code" CH="  array [] char hello = ('H', 'e', "/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" CH="  'l', 'l', 'o', 0);"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" CH="  ref array char hello_string = hello;"/>
+            <para PARENT="code"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="where the relevant portion of the Charm compiler type tree is:"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="We can output this to the screen on a line of its own using the standard "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="vdu"/>
+            <ITEXT FEATURES="inherit" CH=" stream of the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="Out"/>
+            <ITEXT FEATURES="inherit" CH=" library module as follows:"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Code" CH="  Out.vdu.str (hello_string).nl ();"/>
+            <para PARENT="code"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="A few points to note are:"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• All strings are terminated by a zero character."/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• The length of the string array is implicitly calculated by the compiler, however if it were to be explicitly entered it would be "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="[6]"/>
+            <ITEXT FEATURES="inherit" CH=" to accommodate the terminating zero."/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="• Characters can be extracted from the string using an array index starting from 0 and running to one less than the string length, for instance "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="hello_string[1]"/>
+            <ITEXT FEATURES="inherit" CH=" contains "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="'e'"/>
+            <ITEXT FEATURES="inherit" CH="."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Since strings are used so much, the compiler associates the type of a string literal such as "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="&quot;Hello&quot;"/>
+            <ITEXT FEATURES="inherit" CH=" with type "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="ref array char"/>
+            <ITEXT FEATURES="inherit" CH=" and automatically adds the trailing zero, so more concisely we can write:"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Code" CH="ref array char hello_string = &quot;Hello&quot;;"/>
+            <para PARENT="code"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="In fact one of the signatures of the Charm "/>
+            <ITEXT FONT="Monaco Regular" FEATURES="inherit" CH="~start"/>
+            <ITEXT FEATURES="inherit" CH=" procedure which defines the entry point for a Charm program takes two parameters, the first of which is an integer specifying the number of command line arguments being passed in and the second of which is of type "/>
+            <ITEXT FONT="Monaco Regular" FEATURES="inherit" CH="ref array ref array char"/>
+            <ITEXT FEATURES="inherit" CH=" which while at first sight looking somewhat daunting is simply a pointer to an array of strings (one per argument)."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="The story on strings does not end there, as the Charm libraries contain a "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="String"/>
+            <ITEXT FEATURES="inherit" CH=" module that can hold a dynamic instance of a modifiable string. This is held in the heap, can grow as required, and is automatically released by the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="String"/>
+            <ITEXT FEATURES="inherit" CH=" destructor when the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="String"/>
+            <ITEXT FEATURES="inherit" CH=" object goes out of 'scope' (see below)."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Sub-title" FEATURES="inherit" CH="Type Conversions"/>
+            <para PARENT="heading"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="In general the compiler will not allow variables of different types to be combined in assignments or expressions since this frequently this makes no sense e.g. assigning a "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="real"/>
+            <ITEXT FEATURES="inherit" CH=" to a "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="boolean"/>
+            <ITEXT FEATURES="inherit" CH=". The three arithmetic types "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="char"/>
+            <ITEXT FEATURES="inherit" CH=", "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="int"/>
+            <ITEXT FEATURES="inherit" CH=" and "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="real"/>
+            <ITEXT FEATURES="inherit" CH=" can however be mixed, and the compiler will generate a result of the widest width (greatest number of bits) of the operands. You may also mix these types on the left and right of assignment statements, however watch out for loss of precision if the left hand side is narrower than the result being assigned to it."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Charm does permit a couple of powerful casting operations through the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="address (variable)"/>
+            <ITEXT FEATURES="inherit" CH=" construct which can convert a variable of any type to an integer and the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="[int]"/>
+            <ITEXT FEATURES="inherit" CH=" construct which can convert an integer to any type. With great power comes great responsibility however, so these are used but rarely and then with care. You can see an example in the Charm "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="debug"/>
+            <ITEXT FEATURES="inherit" CH=" library module which casts the heap address to an array of bytes so that their contents can be dumped to a file."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Sub-title" FEATURES="inherit" CH="Scope"/>
+            <para PARENT="heading"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="The scope of a variable relates to from where it is accessible and is associated with its lifecycle. A variable can reside in one of the following places:"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Variables declared statically exist for the lifetime of the program and are initialised at compile time, by default to zero or "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="nil"/>
+            <ITEXT FEATURES="inherit" CH=" for references. Variables declared on the heap are created by the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="new"/>
+            <ITEXT FEATURES="inherit" CH=" operator and released using the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="delete"/>
+            <ITEXT FEATURES="inherit" CH=" operator when no longer needed. Variables on the stack exist until their containing scope is released. Typically this is when a procedure exits, or execution of a block of code between "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="{"/>
+            <ITEXT FEATURES="inherit" CH=" and "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="}"/>
+            <ITEXT FEATURES="inherit" CH=" delimiters finishes."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="The specially named "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="~startup"/>
+            <ITEXT FEATURES="inherit" CH=" and "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="~shutdown"/>
+            <ITEXT FEATURES="inherit" CH=" procedures can assist with setting up static variables, and the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="~new"/>
+            <ITEXT FEATURES="inherit" CH=" and "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="~delete"/>
+            <ITEXT FEATURES="inherit" CH=" procedures can help with setting up heap and stack based variables when more than a single compile or run time assignment is required."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Importantly for information hiding, by default constants, variables and procedures are only accessible from within the module in which they are declared. By using the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="export"/>
+            <ITEXT FEATURES="inherit" CH=" keyword however, it is possible to make these definitions publicly available to other modules. Referencing modules are required to explicitly state their dependencies using the "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="import"/>
+            <ITEXT FEATURES="inherit" CH=" keyword to state each module whose public definitions they wish to use. Such references must then be qualified with the name of the imported module "/>
+            <ITEXT CH="e.g. "/>
+            <ITEXT FONT="Monaco Regular" CH="Out.vdu.str"/>
             <ITEXT CH=" refers to the "/>
-            <ITEXT CPARENT="Code" CH="str"/>
-            <ITEXT CH=" procedure of the #vdu# record in the "/>
-            <ITEXT CPARENT="Code" CH="Out"/>
-            <ITEXT CH=" library used to output strings to the screen."/>
-            <para/>
-            <para/>
-            <ITEXT CH="Next time I intend to cover some of the coding side of Charm including writing expressions and flow of control statements."/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Sub-title" CH="Exercise"/>
-            <para/>
-            <para/>
-            <ITEXT CH="Finally for this month's exercise try I suggest replacing the default "/>
-            <ITEXT CPARENT="Code" CH="!NewProject"/>
-            <ITEXT CH=" "/>
-            <ITEXT CPARENT="Code" CH="MyProjec"/>
-            <ITEXT CH="t module with the following code to output square roots for the first dozen integers calculated using the Newton Raphson method:"/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="import lib.Out;"/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="module MyProject"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="{"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="    proc sqrt (int n) real"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="    {"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="        real v := 1;"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="        for int i := 0 step inc (i) while i &lt; 5 v := (v + n / v) / 2;"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="        return v;"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="    }"/>
-            <para/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="    export proc start (ref array ref array char argv)"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="    {"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="        for int i := 1 step inc (i) while i &lt;= 12"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="            Out.vdu.str (&quot;sqrt &quot;).num_fld (i, 2).str (&quot; = &quot;).float_fld (sqrt (i), 10).nl ();"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="    }"/>
-            <para/>
-            <ITEXT CPARENT="Code" CH="}"/>
-            <para/>
-            <ITEXT CH="  "/>
-            <para/>
-            <para/>
+            <ITEXT FONT="Monaco Regular" CH="str"/>
+            <ITEXT CH=" procedure of the "/>
+            <ITEXT FONT="Monaco Regular" CH="vdu"/>
+            <ITEXT CH=" instance of the "/>
+            <ITEXT FONT="Monaco Regular" CH="Out"/>
+            <ITEXT CH=" library module used to output strings to the screen."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CH="Next Time"/>
+            <para PARENT="heading"/>
+            <para PARENT="body text"/>
+            <ITEXT CH="Next time I intend to cover some of the coding side of Charm including examples of sequence, selection and iteration under the umbrella of writing expressions, assignments and flow of control statements."/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Sub-title" FEATURES="inherit" CH="Exercise"/>
+            <para PARENT="heading"/>
+            <para PARENT="body text"/>
+            <ITEXT FEATURES="inherit" CH="Finally for this month's exercise I suggest replacing the default "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="!NewProject"/>
+            <ITEXT FEATURES="inherit" CH=" "/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="MyProjec"/>
+            <ITEXT FEATURES="inherit" CH="t module with the following code to output square roots for the first dozen integers calculated using the Newton Raphson method:"/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="  import lib.Out;"/>
+            <para PARENT="code"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="  module MyProject"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="  {"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="    proc sqrt (int n) real"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="    {"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="      real v := 1;"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="      for int i := 0 step inc (i) "/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="      while i &lt; 5 v :="/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="      (v + n / v) / 2;"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="      return v;"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="    }"/>
+            <para PARENT="code"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="    export proc start (ref array ref "/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="    array char argv)"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="    {"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="      for int i := 1 step inc (i)  "/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="      while i &lt;= 12"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="      Out.vdu.str (&quot;sqrt &quot;).num_fld "/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="      (i, 2).str (&quot; = &quot;).float_fld "/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="      (sqrt (i), 10).nl ();"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" FEATURES="inherit" CH="    }"/>
+            <para PARENT="code"/>
+            <ITEXT CPARENT="Code" CH="  }"/>
+            <trail PARENT="code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.34708661126" YPOS="950.836299203937" WIDTH="538.5883465" HEIGHT="724.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 724.994 538.588 724.994 538.588 724.994 538.588 724.994 0 724.994 0 724.994 0 724.994 0 724.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 724.994 538.588 724.994 538.588 724.994 538.588 724.994 0 724.994 0 724.994 0 724.994 0 724.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="44" BACKITEM="42">
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.34708661126" YPOS="950.836299203937" WIDTH="538.5883465" HEIGHT="724.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 724.994 538.588 724.994 538.588 724.994 538.588 724.994 0 724.994 0 724.994 0 724.994 0 724.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 724.994 538.588 724.994 538.588 724.994 538.588 724.994 0 724.994 0 724.994 0 724.994 0 724.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="43" BACKITEM="41">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="1829.83464551181" WIDTH="538.5883465" HEIGHT="760.7000787" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 760.7 538.588 760.7 538.588 760.7 538.588 760.7 0 760.7 0 760.7 0 760.7 0 760.7 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 760.7 538.588 760.7 538.588 760.7 538.588 760.7 0 760.7 0 760.7 0 760.7 0 760.7 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="45" BACKITEM="43">
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="1829.83464551181" WIDTH="538.5883465" HEIGHT="760.7000787" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 760.7 538.588 760.7 538.588 760.7 538.588 760.7 0 760.7 0 760.7 0 760.7 0 760.7 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 760.7 538.588 760.7 538.588 760.7 538.588 760.7 0 760.7 0 760.7 0 760.7 0 760.7 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="44" BACKITEM="42">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.34708661126" YPOS="2714.61519650394" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="44">
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.34708661126" YPOS="2714.61519650394" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="43">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="128.34708661126" YPOS="577.996063034646" WIDTH="254.4068504" HEIGHT="103.4099788" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.457566277697842" LOCALSCY="0.457566277697842" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="basic.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 254.407 0 254.407 0 254.407 0 254.407 0 254.407 103.41 254.407 103.41 254.407 103.41 254.407 103.41 0 103.41 0 103.41 0 103.41 0 103.41 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 254.407 0 254.407 0 254.407 0 254.407 0 254.407 103.41 254.407 103.41 254.407 103.41 254.407 103.41 0 103.41 0 103.41 0 103.41 0 103.41 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="128.34708661126" YPOS="583.665354373229" WIDTH="254.4068504" HEIGHT="103.4099788" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.457566277697842" LOCALSCY="0.457566277697842" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="basic.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 254.407 0 254.407 0 254.407 0 254.407 0 254.407 103.41 254.407 103.41 254.407 103.41 254.407 103.41 0 103.41 0 103.41 0 103.41 0 103.41 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 254.407 0 254.407 0 254.407 0 254.407 0 254.407 103.41 254.407 103.41 254.407 103.41 254.407 103.41 0 103.41 0 103.41 0 103.41 0 103.41 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="128.34708661126" YPOS="1949.37732288032" WIDTH="253.7270866" HEIGHT="169" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.857186103378378" LOCALSCY="0.857186103378378" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="tree.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 253.727 0 253.727 0 253.727 0 253.727 0 253.727 169 253.727 169 253.727 169 253.727 169 0 169 0 169 0 169 0 169 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 253.727 0 253.727 0 253.727 0 253.727 0 253.727 169 253.727 169 253.727 169 253.727 169 0 169 0 169 0 169 0 169 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="128.347086614173" YPOS="2279.23559059685" WIDTH="253.7270866" HEIGHT="169" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.857186103378378" LOCALSCY="0.857186103378378" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="tree.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 253.727 0 253.727 0 253.727 0 253.727 0 253.727 169 253.727 169 253.727 169 253.727 169 0 169 0 169 0 169 0 169 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 253.727 0 253.727 0 253.727 0 253.727 0 253.727 169 253.727 169 253.727 169 253.727 169 0 169 0 169 0 169 0 169 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="413.93503932126" YPOS="2368.90488184961" WIDTH="253.0003937" HEIGHT="98" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.503984848007968" LOCALSCY="0.503984848007968" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="scope.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 253 0 253 0 253 0 253 0 253 98 253 98 253 98 253 98 0 98 0 98 0 98 0 98 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 253 0 253 0 253 0 253 0 253 98 253 98 253 98 253 98 0 98 0 98 0 98 0 98 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="128.347086614173" YPOS="2928.29858263703" WIDTH="253.0003937" HEIGHT="98" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.503984848007968" LOCALSCY="0.503984848007968" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="scope.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 253 0 253 0 253 0 253 0 253 98 253 98 253 98 253 98 0 98 0 98 0 98 0 98 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 253 0 253 0 253 0 253 0 253 98 253 98 253 98 253 98 0 98 0 98 0 98 0 98 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34708404541" YPOS="1386.28063964844" WIDTH="256.616180419922" HEIGHT="36.54296875" RADRECT="8.50393700787402" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="Deep Orange" PCOLOR2="Deep Orange" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 248.112 0 248.112 0 248.112 0 252.809 0 256.616 8.50394 256.616 3.80734 256.616 8.50394 256.616 8.50394 256.616 28.039 256.616 28.039 256.616 28.039 256.616 32.7356 248.112 36.543 252.809 36.543 248.112 36.543 248.112 36.543 8.50394 36.543 8.50394 36.543 8.50394 36.543 3.80734 36.543 0 28.039 0 32.7356 0 28.039 0 28.039 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="16" COCOOR="0 0 0 0 256.616 0 256.616 0 256.616 0 256.616 0 256.616 36.543 256.616 36.543 256.616 36.543 256.616 36.543 0 36.543 0 36.543 0 36.543 0 36.543 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="1" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34708404541" YPOS="1508.17041015625" WIDTH="256.616180419922" HEIGHT="23.8995361328125" RADRECT="8.503937008" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="Deep Orange" PCOLOR2="Deep Orange" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 248.112 0 248.112 0 248.112 0 252.809 0 256.616 8.50394 256.616 3.80734 256.616 8.50394 256.616 8.50394 256.616 15.3956 256.616 15.3956 256.616 15.3956 256.616 20.0922 248.112 23.8995 252.809 23.8995 248.112 23.8995 248.112 23.8995 8.50394 23.8995 8.50394 23.8995 8.50394 23.8995 3.80734 23.8995 0 15.3956 0 20.0922 0 15.3956 0 15.3956 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="32" COCOOR="8.50394 0 8.50394 0 248.112 0 248.112 0 248.112 0 252.809 0 256.616 8.50394 256.616 3.80734 256.616 8.50394 256.616 8.50394 256.616 15.3956 256.616 15.3956 256.616 15.3956 256.616 20.0922 248.112 23.8995 252.809 23.8995 248.112 23.8995 248.112 23.8995 8.50394 23.8995 8.50394 23.8995 8.50394 23.8995 3.80734 23.8995 0 15.3956 0 20.0922 0 15.3956 0 15.3956 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="1" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.34708404541" YPOS="2195.8310546875" WIDTH="256.616180419922" HEIGHT="43.53662109375" RADRECT="8.50393700787402" FRTYPE="2" CLIPEDIT="1" PWIDTH="1" PCOLOR="Deep Orange" PCOLOR2="Deep Orange" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Polygon50(1)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 248.112 0 248.112 0 248.112 0 252.809 0 256.616 8.50394 256.616 3.80734 256.616 8.50394 256.616 8.50394 256.616 35.0327 256.616 35.0327 256.616 35.0327 256.616 39.7293 248.112 43.5366 252.809 43.5366 248.112 43.5366 248.112 43.5366 8.50394 43.5366 8.50394 43.5366 8.50394 43.5366 3.80734 43.5366 0 35.0327 0 39.7293 0 35.0327 0 35.0327 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="32" COCOOR="8.50394 0 8.50394 0 248.112 0 248.112 0 248.112 0 252.809 0 256.616 8.71216 256.616 3.90057 256.616 8.71216 256.616 8.71216 256.616 34.8245 256.616 34.8245 256.616 34.8245 256.616 39.6361 248.112 43.5366 252.809 43.5366 248.112 43.5366 248.112 43.5366 8.50394 43.5366 8.50394 43.5366 8.50394 43.5366 3.80734 43.5366 0 34.8245 0 39.6361 0 34.8245 0 34.8245 0 8.71216 0 8.71216 0 8.71216 0 3.90057 8.50394 0 3.80734 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="1" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.34708404541" YPOS="2500.6110400775" WIDTH="256.616180419922" HEIGHT="23.8995361328125" RADRECT="8.503937008" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="Deep Orange" PCOLOR2="Deep Orange" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Polygon51" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 248.112 0 248.112 0 248.112 0 252.809 0 256.616 8.50394 256.616 3.80734 256.616 8.50394 256.616 8.50394 256.616 15.3956 256.616 15.3956 256.616 15.3956 256.616 20.0922 248.112 23.8995 252.809 23.8995 248.112 23.8995 248.112 23.8995 8.50394 23.8995 8.50394 23.8995 8.50394 23.8995 3.80734 23.8995 0 15.3956 0 20.0922 0 15.3956 0 15.3956 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="32" COCOOR="8.50394 0 8.50394 0 248.112 0 248.112 0 248.112 0 252.809 0 256.616 8.50394 256.616 3.80734 256.616 8.50394 256.616 8.50394 256.616 15.3956 256.616 15.3956 256.616 15.3956 256.616 20.0922 248.112 23.8995 252.809 23.8995 248.112 23.8995 248.112 23.8995 8.50394 23.8995 8.50394 23.8995 8.50394 23.8995 3.80734 23.8995 0 15.3956 0 20.0922 0 15.3956 0 15.3956 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="1" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.319252650945" YPOS="2036.22521330586" WIDTH="256.616180419922" HEIGHT="23.8995361328125" RADRECT="8.503937008" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="Deep Orange" PCOLOR2="Deep Orange" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Polygon51 (2)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 248.112 0 248.112 0 248.112 0 252.809 0 256.616 8.50394 256.616 3.80734 256.616 8.50394 256.616 8.50394 256.616 15.3956 256.616 15.3956 256.616 15.3956 256.616 20.0922 248.112 23.8995 252.809 23.8995 248.112 23.8995 248.112 23.8995 8.50394 23.8995 8.50394 23.8995 8.50394 23.8995 3.80734 23.8995 0 15.3956 0 20.0922 0 15.3956 0 15.3956 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="32" COCOOR="8.50394 0 8.50394 0 248.112 0 248.112 0 248.112 0 252.809 0 256.616 8.50394 256.616 3.80734 256.616 8.50394 256.616 8.50394 256.616 15.3956 256.616 15.3956 256.616 15.3956 256.616 20.0922 248.112 23.8995 252.809 23.8995 248.112 23.8995 248.112 23.8995 8.50394 23.8995 8.50394 23.8995 8.50394 23.8995 3.80734 23.8995 0 15.3956 0 20.0922 0 15.3956 0 15.3956 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="1" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="-1" PTYPE="6" XPOS="661.34708404541" YPOS="6303.05953728623" WIDTH="256.616180419922" HEIGHT="36.54296875" RADRECT="8.50393700787402" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="Deep Orange" PCOLOR2="Deep Orange" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Polygon50(1)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 248.112 0 248.112 0 248.112 0 252.809 0 256.616 8.50394 256.616 3.80734 256.616 8.50394 256.616 8.50394 256.616 28.039 256.616 28.039 256.616 28.039 256.616 32.7356 248.112 36.543 252.809 36.543 248.112 36.543 248.112 36.543 8.50394 36.543 8.50394 36.543 8.50394 36.543 3.80734 36.543 0 28.039 0 32.7356 0 28.039 0 28.039 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="16" COCOOR="0 0 0 0 256.616 0 256.616 0 256.616 0 256.616 0 256.616 36.543 256.616 36.543 256.616 36.543 256.616 36.543 0 36.543 0 36.543 0 36.543 0 36.543 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="1" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="410.319244384766" YPOS="3133.58698519008" WIDTH="256.616180419922" HEIGHT="271.56396484375" RADRECT="8.50393700787402" FRTYPE="2" CLIPEDIT="1" PWIDTH="1" PCOLOR="Deep Orange" PCOLOR2="Deep Orange" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Polygon50(1) (2)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 248.112 0 248.112 0 248.112 0 252.809 0 256.616 8.50394 256.616 3.80734 256.616 8.50394 256.616 8.50394 256.616 263.06 256.616 263.06 256.616 263.06 256.616 267.757 248.112 271.564 252.809 271.564 248.112 271.564 248.112 271.564 8.50394 271.564 8.50394 271.564 8.50394 271.564 3.80734 271.564 0 263.06 0 267.757 0 263.06 0 263.06 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="32" COCOOR="8.50394 0 8.50394 0 248.112 0 248.112 0 248.112 0 252.809 0 256.616 8.50394 256.616 3.80734 256.616 8.50394 256.616 8.50394 256.616 263.06 256.616 263.06 256.616 263.06 256.616 267.757 248.112 271.564 252.809 271.564 248.112 271.564 248.112 271.564 8.50394 271.564 8.50394 271.564 8.50394 271.564 3.80734 271.564 0 263.06 0 267.757 0 263.06 0 263.06 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="1" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="100.003464566929" YPOS="833.544566942522" WIDTH="595.2755906" HEIGHT="28.34645669" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Polygon11" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 595.276 0 595.276 0 595.276 0 595.276 0 595.276 28.3465 595.276 28.3465 595.276 28.3465 595.276 28.3465 0 28.3465 0 28.3465 0 28.3465 0 28.3465 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 595.276 0 595.276 0 595.276 0 595.276 0 595.276 28.3465 595.276 28.3465 595.276 28.3465 595.276 28.3465 0 28.3465 0 28.3465 0 28.3465 0 28.3465 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
